@@ -1,0 +1,33 @@
+body {
+    background-color: hotpink;
+}
+.AuswertungG {
+    margin-top: 50px;
+    background-color: green;
+    text-align: center;
+
+}
+#b1 {
+    background-color: blue;
+    border-radius: 15%;
+    color: chartreuse;
+
+}
+#b2 {
+    background-color: rgba(255, 99, 71, 0.6);
+    border-radius: 15%;
+
+}
+#b2:hover {
+    background-color: tomato;
+    transition: background-Color 2s ease-in-out;
+    color: turquoise ;
+    transition: color 0.5s ease-in;
+}
+h2{
+    display: inline-block;
+    border: solid white; 
+}
+#button {
+    border:solid violet;
+}
